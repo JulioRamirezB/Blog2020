@@ -57,7 +57,7 @@ h1 h3{
 
 .contenido{
     text-align: left;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 60%;
 }
 
@@ -80,7 +80,7 @@ h1 h3{
 }
 .historia{
     width: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     justify-content: center;
