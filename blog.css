@@ -82,19 +82,21 @@ h1 h3{
     justify-content: center;
 }
 #firma{
-    display: flex;
     text-align: right;
     font-size: 15px;
     padding: 10px;
 
 }
 @media screen and (max-width: 600px){
-    #firma{
-        display: flex;
+    #firma{       
         text-align: center;
         font-size: 15px;
         padding: 10px;
     }
+    #firma #text{
+        text-align: center;
+        font-size: 15px;
+        padding: 10px;        
 }
 
 h4 a i{
