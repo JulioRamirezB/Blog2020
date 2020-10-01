@@ -95,6 +95,10 @@ h1 h3{
         font-size: 20px;
         padding: 5px;
     }
+    #firma #text{
+        text-align: center;
+        font-size: 15px;
+        padding: 10px;        
 }
 
 h4 a i{
